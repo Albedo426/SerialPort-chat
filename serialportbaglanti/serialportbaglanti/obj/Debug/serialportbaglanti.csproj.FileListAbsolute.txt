@@ -1,0 +1,10 @@
+C:\Users\Fatih Yılmaz\source\repos\serialportbaglanti\serialportbaglanti\bin\Debug\serialportbaglanti.exe.config
+C:\Users\Fatih Yılmaz\source\repos\serialportbaglanti\serialportbaglanti\bin\Debug\serialportbaglanti.exe
+C:\Users\Fatih Yılmaz\source\repos\serialportbaglanti\serialportbaglanti\bin\Debug\serialportbaglanti.pdb
+C:\Users\Fatih Yılmaz\source\repos\serialportbaglanti\serialportbaglanti\obj\Debug\serialportbaglanti.csprojAssemblyReference.cache
+C:\Users\Fatih Yılmaz\source\repos\serialportbaglanti\serialportbaglanti\obj\Debug\serialportbaglanti.Form1.resources
+C:\Users\Fatih Yılmaz\source\repos\serialportbaglanti\serialportbaglanti\obj\Debug\serialportbaglanti.Properties.Resources.resources
+C:\Users\Fatih Yılmaz\source\repos\serialportbaglanti\serialportbaglanti\obj\Debug\serialportbaglanti.csproj.GenerateResource.cache
+C:\Users\Fatih Yılmaz\source\repos\serialportbaglanti\serialportbaglanti\obj\Debug\serialportbaglanti.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Yılmaz\source\repos\serialportbaglanti\serialportbaglanti\obj\Debug\serialportbaglanti.exe
+C:\Users\Fatih Yılmaz\source\repos\serialportbaglanti\serialportbaglanti\obj\Debug\serialportbaglanti.pdb
