@@ -1,0 +1,10 @@
+C:\Users\Fatih Yılmaz\source\repos\comportChat\comportChat\bin\Debug\comportChat.exe.config
+C:\Users\Fatih Yılmaz\source\repos\comportChat\comportChat\bin\Debug\comportChat.exe
+C:\Users\Fatih Yılmaz\source\repos\comportChat\comportChat\bin\Debug\comportChat.pdb
+C:\Users\Fatih Yılmaz\source\repos\comportChat\comportChat\obj\Debug\comportChat.csprojAssemblyReference.cache
+C:\Users\Fatih Yılmaz\source\repos\comportChat\comportChat\obj\Debug\comportChat.Form1.resources
+C:\Users\Fatih Yılmaz\source\repos\comportChat\comportChat\obj\Debug\comportChat.Properties.Resources.resources
+C:\Users\Fatih Yılmaz\source\repos\comportChat\comportChat\obj\Debug\comportChat.csproj.GenerateResource.cache
+C:\Users\Fatih Yılmaz\source\repos\comportChat\comportChat\obj\Debug\comportChat.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Yılmaz\source\repos\comportChat\comportChat\obj\Debug\comportChat.exe
+C:\Users\Fatih Yılmaz\source\repos\comportChat\comportChat\obj\Debug\comportChat.pdb
